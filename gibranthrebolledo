@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Francisco Gibranth Rebolledo Villegas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #005f99; /* Azul */
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #005f99; /* Azul */
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            background: #ff6600; /* Naranja */
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 4px;
+            color: white;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #005f99; /* Azul */
+            color: white;
+        }
+        a {
+            color: #ff6600; /* Naranja */
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Francisco Gibranth Rebolledo Villegas</h1>
+        <p>Apasionado del Marketing Digital y Desarrollo Web</p>
+    </header>
+
+    <section>
+        <h2>Biografía</h2>
+        <p>Soy Francisco Gibranth Rebolledo Villegas, un apasionado del marketing digital y el desarrollo web. Mi objetivo es combinar creatividad y estrategia para ayudar a las empresas a alcanzar su máximo potencial en el mundo digital.</p>
+    </section>
+
+    <section>
+        <h2>Proyectos</h2>
+        <p>He trabajado en proyectos de marketing digital para diversas industrias, desde belleza y moda hasta restaurantes y tecnología. Algunos de mis trabajos incluyen la creación de calendarios de contenido, diseño de sitios web y estrategias de redes sociales.</p>
+    </section>
+
+    <section>
+        <h2>Experiencia Laboral</h2>
+        <ul>
+            <li>Consultor de Marketing Digital</li>
+            <li>Desarrollador Web</li>
+            <li>Mystery Shopper</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Habilidades</h2>
+        <ul>
+            <li>Desarrollo web (HTML, CSS, JavaScript)</li>
+            <li>Marketing digital</li>
+            <li>SEO</li>
+            <li>Diseño gráfico</li>
+            <li>Análisis de datos</li>
+            <li>Estrategias de contenido</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Redes Sociales</h2>
+        <p>Puedes encontrarme en:</p>
+        <ul>
+            <li><a href="#">LinkedIn</a></li>
+            <li><a href="#">Twitter</a></li>
+            <li><a href="#">Instagram</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2024 Francisco Gibranth Rebolledo Villegas</p>
+    </footer>
+</body>
+</html>
